@@ -17,7 +17,7 @@ Allure command-line tool for report generation (optional for enhanced reporting)
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-repo/chatgpt-response-validation.git
+    git clone https://github.com/Navya-George-95/chatgpt-response-validation.git
     
    cd chatgpt-response-validation
    ```
